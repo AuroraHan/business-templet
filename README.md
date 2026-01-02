@@ -1,20 +1,9 @@
 # uniapp 团队协作开发实践模板(Vue3)
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/oyjt/uniapp-vue3-template?style=flat&logo=github)](https://github.com/oyjt/uniapp-vue3-template)
-[![GitHub forks](https://img.shields.io/github/forks/oyjt/uniapp-vue3-template?style=flat&logo=github)](https://github.com/oyjt/uniapp-vue3-template)
-[![node version](https://img.shields.io/badge/node-%3E%3D18-green)](https://github.com/oyjt/uniapp-vue3-template)
-[![pnpm version](https://img.shields.io/badge/pnpm-%3E%3D8-green)](https://github.com/oyjt/uniapp-vue3-template)
-[![GitHub package.json version (subfolder of monorepo)](https://img.shields.io/github/package-json/v/oyjt/uniapp-vue3-template)](https://github.com/oyjt/uniapp-vue3-template)
-[![GitHub License](https://img.shields.io/github/license/oyjt/uniapp-vue3-template)](https://github.com/oyjt/uniapp-vue3-template)
-
-
 使用uniapp+vite+vue3+typescript+uview-plus+unocss 搭建的适合团队协作的快速开发模版
 
 [uview-plus官方文档](https://uiadmin.net/uview-plus/)
 
-本项目集众多项目的优点，打造最适合团队协作开发的项目模板。
-
-在线预览地址：[https://oyjt.github.io/uniapp-vue3-template/](https://oyjt.github.io/uniapp-vue3-template/)
 
 ### 特性
 
